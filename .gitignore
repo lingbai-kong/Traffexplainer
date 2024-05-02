@@ -1,0 +1,18 @@
+# dir 不需要提交的目录
+/lib/Bigscity-LibCity/raw_data
+/lib/Bigscity-LibCity/libcity/cache
+/lib/Bigscity-LibCity/libcity/cache-old
+/lib/Bigscity-LibCity/libcity/log
+/lib/Bigscity-LibCity/libcity/visualized_data/*
+/lib/Bigscity-LibCity/libcity/tmp/*
+/lib/Bigscity-LibCity/libcity/__pycache__
+/lib/Bigscity-LibCity/libcity/libcity/*/__pycache__
+/lib/Bigscity-LibCity/libcity/data/dataset/__pycache__
+/lib/Bigscity-LibCity/libcity/model/*/__pycache__
+/lib/Bigscity-LibCity/libcity/data/dataset/*/__pycache__
+/data
+/src/.ipynb_checkpoints
+__pycache__
+*.log
+*.out
+*.zip
