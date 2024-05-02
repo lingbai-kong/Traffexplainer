@@ -1,0 +1,20 @@
+{    
+  "scaler": "standard",
+  "load_external": false,
+  "normal_external": false,
+  "ext_scaler": "none",
+  "add_time_in_day": false,
+  "add_day_in_week": false,
+
+  "sigma1": 0.1,
+  "sigma2": 10,
+  "thres1": 0.6,
+  "thres2": 0.5,
+
+  "max_epoch": 100,
+  "learner": "adam",
+  "learning_rate": 0.001,
+  "lr_decay": false,
+  "clip_grad_norm": false,
+  "use_early_stop": false
+}
