@@ -1,8 +1,8 @@
 # PyTorch Implementation of Traffexplainer: A Framework towards GNN-based
 Interpretable Traffic Prediction
 
-Official PyTorch implementation for Traffexplainer: A Framework towards GNN-based
-Interpretable Traffic Prediction.
+Official PyTorch implementation for [Traffexplainer: A Framework towards GNN-based
+Interpretable Traffic Prediction](https://ieeexplore.ieee.org/abstract/document/10680338).
 
 ## Requirements
 
@@ -103,3 +103,14 @@ CauseFormer/
 
 This project is licensed under the  GPL-3.0 License. See LICENSE for more details
 This GNN training framework is based on [LibCity: An Open Library for Urban Spatial-temporal Data Mining](https://github.com/LibCity/Bigscity-LibCity).
+
+## Cite
+```
+@article{kong2024traffexplainer,
+  title={Traffexplainer: A Framework towards GNN-based Interpretable Traffic Prediction},
+  author={Kong, Lingbai and Yang, Hanchen and Li, Wengen and Guan, Jihong and Zhou, Shuigeng},
+  journal={IEEE Transactions on Artificial Intelligence},
+  year={2024},
+  publisher={IEEE}
+}
+```
